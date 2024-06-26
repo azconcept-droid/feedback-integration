@@ -12,5 +12,5 @@ Then run `npm install` to install dependencies.
 ## Run locally (port 1337)
 Run `nodemon index.js`
 
-# Bugs
+## Bugs
 1. Unable to send feedback type with radio button
